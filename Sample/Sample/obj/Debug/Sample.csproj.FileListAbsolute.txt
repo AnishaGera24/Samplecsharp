@@ -1,0 +1,7 @@
+C:\Users\Anisha\Desktop\LTI\Day3_devops\Sample\Sample\bin\Debug\Sample.exe.config
+C:\Users\Anisha\Desktop\LTI\Day3_devops\Sample\Sample\bin\Debug\Sample.exe
+C:\Users\Anisha\Desktop\LTI\Day3_devops\Sample\Sample\bin\Debug\Sample.pdb
+C:\Users\Anisha\Desktop\LTI\Day3_devops\Sample\Sample\obj\Debug\Sample.csprojAssemblyReference.cache
+C:\Users\Anisha\Desktop\LTI\Day3_devops\Sample\Sample\obj\Debug\Sample.csproj.CoreCompileInputs.cache
+C:\Users\Anisha\Desktop\LTI\Day3_devops\Sample\Sample\obj\Debug\Sample.exe
+C:\Users\Anisha\Desktop\LTI\Day3_devops\Sample\Sample\obj\Debug\Sample.pdb
